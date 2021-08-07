@@ -1,0 +1,23 @@
+{
+  "name": "challenge_11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmre/ch11_note_taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmre/ch11_note_taker/issues"
+  },
+  "homepage": "https://github.com/kmre/ch11_note_taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "generate-unique-id": "^2.0.1"
+  }
+}
