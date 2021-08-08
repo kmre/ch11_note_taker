@@ -1,5 +1,4 @@
 # ch11_note_taker
-# OOP_Team_Profile_Gen
 
 ## Description
 Generate a page that allows user to write and save notes so that user can keep track of tasks they need to complete
